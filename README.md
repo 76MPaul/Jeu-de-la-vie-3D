@@ -1,7 +1,10 @@
 # Jeu-de-la-vie-3D
+
+Création de 2011
+
 Implémentation du jeu de la vie en 3D en C++ avec Irrlicht
 
-Merci d'avoir télécharger le jeu de la vie 3D!!!
+Je n'ai malheureusement pu retrouver qu'un rassemblement de l'ensemble du code en un seul fichier (probablement créé pour une présentation à l'époque). Le code n'en reste pas moins fonctionnel mais l'ajout de fonction permettrait une bien meilleur lisibilité.
 
 Voici les fonctionnalitées du programme :
 
